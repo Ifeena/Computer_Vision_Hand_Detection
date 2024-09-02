@@ -1,1 +1,1 @@
-# Computer_Vision_Hand_Detection
+# HAND DETECTION USING MEDIAPIPE
